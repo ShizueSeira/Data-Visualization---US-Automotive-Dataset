@@ -2,7 +2,7 @@
 
 ## 🌍 Project Overview
 
-A comprehensive data visualization and multivariate analysis project exploring vehicle performance characteristics and environmental impact using U.S. EPA Automotive Trends data (1975-2024). This research directly supports **Sustainable Development Goals 7 (Affordable and Clean Energy)** and **13 (Climate Action)** by analyzing fuel economy, CO₂ emissions, and technological advancements in the transportation sector.
+A comprehensive data visualization and multivariate analysis project exploring vehicle performance characteristics and environmental impact using U.S. EPA Automotive Trends data (1975 - preliminary 2024). This research directly supports **Sustainable Development Goals 7 (Affordable and Clean Energy)** and **13 (Climate Action)** by analyzing fuel economy, CO₂ emissions, and technological advancements in the transportation sector.
 
 ## 👥 Team Members
 
